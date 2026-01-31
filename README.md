@@ -69,7 +69,7 @@ Our schedule is as follows. [Here is a public calendar](https://calendar.google.
 
 ## Exams
 
-Each lecture has an exercise at the end (actually, most of the time in class is dedicated to completing these problems!). At the end of the class, you will have to submit your codes showcasing what you've done on these problems. There will then be a short oral exam to verify that you have appropriately understood the course material. The outcome will be provided as a passed / not passed statement (no numbers).
+Each lecture has an exercise at the end (actually, most of the time in class is dedicated to completing these problems!). At the end of the class, you will have to submit your codes showcasing what you've done on these problems. There will then be an oral exam to verify that you have appropriately understood the course material. The outcome will be provided as a *passed* / *not passed* statement (no numbers).
 
 You do not need to submit assignments after every lecture. Please share them all together at the end of the course, when you are ready. See [here for detailed instructions](examsubmission.md).
 
