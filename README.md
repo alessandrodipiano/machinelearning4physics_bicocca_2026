@@ -1,6 +1,6 @@
 # Machine Learning for Physics and Astronomy
 **[Davide Gerosa](https://davidegerosa.com/)** (module lead) - davide.gerosa@unimib.it  
-**[Federico De Santi]** (teaching assistant) - f.desanti@campus.unimib.it
+**Federico De Santi** (teaching assistant) - f.desanti@campus.unimib.it
 
 University of Milano-Bicocca, 2026. [BSc in Artificial Intelligence](https://www.unimib.it/undergraduate/artificial-intelligence).
 
