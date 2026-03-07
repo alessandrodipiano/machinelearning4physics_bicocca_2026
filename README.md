@@ -1,6 +1,6 @@
 # Machine Learning for Physics and Astronomy
 **[Davide Gerosa](https://davidegerosa.com/)** (module lead) - davide.gerosa@unimib.it  
-**UPDATE** (teaching assistant) - update@campus.unimib.it 
+**Federico De Santi** (teaching assistant) - f.desanti@campus.unimib.it
 
 University of Milano-Bicocca, 2026. [BSc in Artificial Intelligence](https://www.unimib.it/undergraduate/artificial-intelligence).
 
@@ -45,47 +45,35 @@ Our schedule is as follows. [Here is a public calendar](https://calendar.google.
 
 
 <!-- CALENDAR:START -->
-1. **2026, Mar 09, 08:30am - 10:30am**. Room U7-15.
-2. **2026, Mar 12, 10:30am - 12:30pm**. Room U2-05.
-3. **2026, Mar 16, 08:30am - 10:30am**. Room U7-15.
-4. **2026, Mar 19, 10:30am - 12:30pm**. Room U2-05.
-5. **2026, Mar 23, 08:30am - 10:30am**. Room U7-15.
-6. **2026, Mar 26, 10:30am - 12:30pm**. Room U2-05.
-7. **2026, Mar 30, 08:30am - 10:30am**. Room U7-15.
-8. **2026, Apr 09, 10:30am - 12:30pm**. Room U2-05.
-9. **2026, Apr 13, 08:30am - 10:30am**. Room U7-15.
-10. **2026, Apr 16, 10:30am - 12:30pm**. Room U2-05.
-11. **2026, Apr 20, 08:30am - 10:30am**. Room U7-15.
-12. **2026, Apr 23, 10:30am - 12:30pm**. Room U2-05.
-13. **2026, Apr 27, 08:30am - 10:30am**. Room U7-15.
-14. **2026, Apr 30, 10:30am - 12:30pm**. Room U2-05.
-15. **2026, May 04, 08:30am - 10:30am**. Room U7-15.
-16. **2026, May 07, 10:30am - 12:30pm**. Room U2-05.
-17. **2026, May 11, 08:30am - 10:30am**. Room U7-15.
-18. **2026, May 14, 10:30am - 12:30pm**. Room U2-05.
-19. **2026, May 18, 08:30am - 10:30am**. Room U7-15.
-20. **2026, May 21, 10:30am - 12:30pm**. Room U2-05.
-21. **2026, May 25, 08:30am - 10:30am**. Room U7-15.
-22. **2026, May 28, 10:30am - 12:30pm**. Room U2-05 (backup slot in case we skip one).
+1. **2026, Mar 11, 08:30am - 12:30pm**. LAB910 (U9a).
+2. **2026, Mar 18, 08:30am - 12:30pm**. LAB910 (U9a).
+3. **2026, Mar 25, 08:30am - 12:30pm**. LAB910 (U9a).
+4. **2026, Apr 01, 08:30am - 12:30pm**. LAB910 (U9a).
+5. **2026, Apr 08, 08:30am - 12:30pm**. LAB910 (U9a).
+6. **2026, Apr 15, 08:30am - 12:30pm**. LAB910 (U9a).
+7. **2026, Apr 29, 08:30am - 12:30pm**. LAB910 (U9a).
+8. **2026, May 06, 08:30am - 12:30pm**. LAB910 (U9a).
+9. **2026, May 13, 08:30am - 12:30pm**. LAB910 (U9a).
+10. **2026, May 20, 08:30am - 12:30pm**. LAB910 (U9a).
 <!-- CALENDAR:END -->
 
 ## Setup
 
 **Coding**. Each class will be about 1h of lecture and about 3h of coding. You will need to run python, see [here for instructions](pythonsetup.md).
 
-**News+emails**: [https://elearning.unipv.it/course/section.php?id=102930](elearning.unipv.it/course/section.php?id=102930)
+**News+emails**: [elearning.unipv.it/course/section.php?id=102930](https://elearning.unipv.it/course/section.php?id=102930)
 
-**Recordings**: [https://elearning.unimib.it/course/view.php?id=60763](elearning.unimib.it/course/view.php?id=60763)
+**Recordings**: [elearning.unimib.it/course/view.php?id=60763](https://elearning.unimib.it/course/view.php?id=60763)
 
 
 
 ## Exams
 
-Each lecture has an exercise at the end (actually, most of the time in class is dedicated to completing these problems!). At the end of the class, you will have to submit your codes showcasing what you've done on these problems. There will not be oral exams. The outcome will be provided as a passed / not passed statement (no numbers).
+Each lecture has an exercise at the end (actually, most of the time in class is dedicated to completing these problems!). At the end of the class, you will have to submit your codes showcasing what you've done on these problems. There will then be an oral exam to verify that you have appropriately understood the course material. The outcome will be provided as a *passed* / *not passed* statement (no numbers).
 
-To submit your codes, register on github.com, create a new **private** repository called `machinelearning4physics_bicocca_2026_solutions`, upload your files, share it with the two of us (usernames `dgerosa` and `gfumagalli`), and send us an email when you are done. See [here for detailed instructions](examsubmission.md).
+You do not need to submit assignments after every lecture. Please share them all together at the end of the course, when you are ready.  To submit your codes, register on github.com, create a new **private** repository called `machinelearning4physics_bicocca_2026_solutions`, upload your files, share it with the two of us (usernames `dgerosa` and `fdesanti`). See [here for detailed instructions](examsubmission.md). Please send us an email when you are done, we will then arrange the date of the oral exam. 
 
-You do not need to submit assignments after every lecture. Please share them all together at the end of the course, when you are ready. Exams will be cleared according to the nominal exam dates available on the student service website. 
+
 
 
 ## Past editions
